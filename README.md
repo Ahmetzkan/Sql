@@ -1,2 +1,3 @@
 # Sql_Tobeto_Homework
-Tobeto Homework
+
+Examples containing general SQL topics
